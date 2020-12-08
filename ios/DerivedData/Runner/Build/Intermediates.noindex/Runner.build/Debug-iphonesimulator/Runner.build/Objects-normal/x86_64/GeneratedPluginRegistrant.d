@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/user/Desktop/happy_oil/happy_oil/ios/Flutter/Flutter.framework/Headers/Flutter.h

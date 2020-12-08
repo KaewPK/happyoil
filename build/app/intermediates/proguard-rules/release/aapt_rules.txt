@@ -1,0 +1,4 @@
+# Referenced at /Users/user/Desktop/happy_oil/happy_oil/build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:25
+-keep class com.company_name.happy_oil.MainActivity { <init>(...); }
+# Referenced at /Users/user/Desktop/happy_oil/happy_oil/build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:20
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
